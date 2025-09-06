@@ -1,6 +1,6 @@
 # Documento de Visión - Sistema GraphFlow
 
-![Logo UPT](media/logo-upt.png) ![Logo GraphFlow](media/graphflow-logo.png)
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;"> <img src="media/logo-upt.png" alt="Logo UPT" style="width: 150px; height: auto;"> <img src="media/graphflow-logo.png" alt="Logo GraphFlow" style="width: 150px; height: auto;"> </div>
 
 ## 1. Introducción
 
