@@ -39,55 +39,58 @@
 
 **Versión 1.0**
 
-## INDICE GENERAL
+**INDICE GENERAL**
+**1. Introducción**
+1.1 Propósito
+1.2 Alcance
+1.3 Definiciones, Siglas y Abreviaturas
+1.4 Referencias
+1.5 Visión General
 
-1. [Introducción](#1-introducción)
-   1.1 [Propósito](#11-propósito)
-   1.2 [Alcance](#12-alcance)
-   1.3 [Definiciones, Siglas y Abreviaturas](#13-definiciones-siglas-y-abreviaturas)
-   1.4 [Referencias](#14-referencias)
-   1.5 [Visión General](#15-visión-general)
+**2. Posicionamiento**
+2.1 Oportunidad de negocio
+2.2 Definición del problema
 
-2. [Posicionamiento](#2-posicionamiento)
-   2.1 [Oportunidad de negocio](#21-oportunidad-de-negocio)
-   2.2 [Definición del problema](#22-definición-del-problema)
+**3. Descripción de los interesados y usuarios**
+3.1 Resumen de los interesados
+3.2 Resumen de los usuarios
+3.3 Entorno de usuario
+3.4 Perfiles de los interesados
+3.5 Perfiles de los Usuarios
+3.6 Necesidades de los interesados y usuarios
 
-3. [Descripción de los interesados y usuarios](#3-descripción-de-los-interesados-y-usuarios)
-   3.1 [Resumen de los interesados](#31-resumen-de-los-interesados)
-   3.2 [Resumen de los usuarios](#32-resumen-de-los-usuarios)
-   3.3 [Entorno de usuario](#33-entorno-de-usuario)
-   3.4 [Perfiles de los interesados](#34-perfiles-de-los-interesados)
-   3.5 [Perfiles de los Usuarios](#35-perfiles-de-los-usuarios)
-   3.6 [Necesidades de los interesados y usuarios](#36-necesidades-de-los-interesados-y-usuarios)
+**4. Vista General del Producto**
+4.1 Perspectiva del producto
+4.2 Resumen de capacidades
+4.3 Suposiciones y dependencias
+4.4 Costos y precios
+4.5 Licenciamiento e instalación
 
-4. [Vista General del Producto](#4-vista-general-del-producto)
-   4.1 [Perspectiva del producto](#41-perspectiva-del-producto)
-   4.2 [Resumen de capacidades](#42-resumen-de-capacidades)
-   4.3 [Suposiciones y dependencias](#43-suposiciones-y-dependencias)
-   4.4 [Costos y precios](#44-costos-y-precios)
-   4.5 [Licenciamiento e instalación](#45-licenciamiento-e-instalación)
+**5. Características del producto**
 
-5. [Características del producto](#5-características-del-producto)
+**6. Restricciones**
 
-6. [Restricciones](#6-restricciones)
+**7. Rangos de calidad**
 
-7. [Rangos de calidad](#7-rangos-de-calidad)
+**8. Precedencia y Prioridad**
 
-8. [Precedencia y Prioridad](#8-precedencia-y-prioridad)
+**9. Otros requerimientos del producto**
 
-9. [Otros requerimientos del producto](#9-otros-requerimientos-del-producto)
-   - [a) Estándares legales](#a-estándares-legales)
-   - [b) Estándares de comunicación](#b-estándares-de-comunicación)
-   - [c) Estándares de cumplimiento de la plataforma](#c-estándares-de-cumplimiento-de-la-plataforma)
-   - [d) Estándares de calidad y seguridad](#d-estándares-de-calidad-y-seguridad)
+a) Estándares legales
 
-[CONCLUSIONES](#conclusiones)
+b) Estándares de comunicación
 
-[RECOMENDACIONES](#recomendaciones)
+c) Estándares de cumplimiento de la plataforma
 
-[BIBLIOGRAFIA](#bibliografia)
+d) Estándares de calidad y seguridad
 
-[WEBGRAFIA](#webgrafia)
+**CONCLUSIONES**
+
+**RECOMENDACIONES**
+
+**BIBLIOGRAFIA**
+
+**WEBGRAFIA**
 
 ---
 
