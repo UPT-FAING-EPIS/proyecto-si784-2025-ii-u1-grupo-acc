@@ -39,57 +39,53 @@
 
 **Versión 1.0**
 
-**INDICE GENERAL**
-**1. Introducción**
-1.1 Propósito
-1.2 Alcance
-1.3 Definiciones, Siglas y Abreviaturas
-1.4 Referencias
-1.5 Visión General
+## INDICE GENERAL
 
-**2. Posicionamiento**
-2.1 Oportunidad de negocio
-2.2 Definición del problema
+**1. Introducción**  
+1.1 Propósito  
+1.2 Alcance  
+1.3 Definiciones, Siglas y Abreviaturas  
+1.4 Referencias  
+1.5 Visión General  
 
-**3. Descripción de los interesados y usuarios**
-3.1 Resumen de los interesados
+**2. Posicionamiento**  
+2.1 Oportunidad de negocio  
+2.2 Definición del problema  
 
-3.2 Resumen de los usuarios
-3.3 Entorno de usuario
-3.4 Perfiles de los interesados
-3.5 Perfiles de los Usuarios
-3.6 Necesidades de los interesados y usuarios
+**3. Descripción de los interesados y usuarios**  
+3.1 Resumen de los interesados  
+3.2 Resumen de los usuarios  
+3.3 Entorno de usuario  
+3.4 Perfiles de los interesados  
+3.5 Perfiles de los Usuarios  
+3.6 Necesidades de los interesados y usuarios  
 
-**4. Vista General del Producto**
-4.1 Perspectiva del producto
-4.2 Resumen de capacidades
-4.3 Suposiciones y dependencias
-4.4 Costos y precios
-4.5 Licenciamiento e instalación
+**4. Vista General del Producto**  
+4.1 Perspectiva del producto  
+4.2 Resumen de capacidades  
+4.3 Suposiciones y dependencias  
+4.4 Costos y precios  
+4.5 Licenciamiento e instalación  
 
-**5. Características del producto**
+**5. Características del producto**  
 
-**6. Restricciones**
+**6. Restricciones**  
 
-**7. Rangos de calidad**
+**7. Rangos de calidad**  
 
-**8. Precedencia y Prioridad**
+**8. Precedencia y Prioridad**  
 
-**9. Otros requerimientos del producto**
+**9. Otros requerimientos del producto**  
+a) Estándares legales  
+b) Estándares de comunicación  
+c) Estándares de cumplimiento de la plataforma  
+d) Estándares de calidad y seguridad  
 
-a) Estándares legales
+**CONCLUSIONES**  
 
-b) Estándares de comunicación
+**RECOMENDACIONES**  
 
-c) Estándares de cumplimiento de la plataforma
-
-d) Estándares de calidad y seguridad
-
-**CONCLUSIONES**
-
-**RECOMENDACIONES**
-
-**BIBLIOGRAFIA**
+**BIBLIOGRAFIA**  
 
 **WEBGRAFIA**
 
