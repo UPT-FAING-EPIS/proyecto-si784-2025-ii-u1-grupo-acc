@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphFlow - Crear Nuevo Grafo</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Librería para la visualización de grafos -->
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        /* Estilos específicos para esta página */
+        .editor-container {
+            display: flex;
+            gap: 2rem;
+            height: calc(100vh - 200px); /* Altura ajustable */
+        }
+        .text-area-container, .graph-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            border-radius: 8px;
+            background: #f9f9f9;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+            padding: 1.5rem;
+        }
+        textarea#texto {
+            width: 100%;
+            height: 100%;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 1rem;
+            font-size: 16px;
+            resize: none; /* Para que no se pueda cambiar el tamaño manualmente */
+            box-sizing: border-box;
+        }
+        #grafo {
+            width: 100%;
+            height: 100%;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background: #fff;
+        }
+        .main-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="main-header">
+            <h2>Crea tu Grafo a partir de Apuntes</h2>
+            <div>
+                <button onclick="window.location.href='dashboard.html'">Volver al Dashboard</button>
+                <button id="generarGrafoBtn" class="primary-btn">Generar Grafo con IA</button>
+            </div>
+        </div>
+
+        <div class="editor-container">
+            <div class="text-area-container">
+                <h3>Tus Apuntes</h3>
+                <textarea id="texto" placeholder="Escribe aquí tus ideas, notas de clase, o el flujo de tu proyecto..."></textarea>
+            </div>
+            <div class="graph-container">
+                <h3>Visualización del Grafo</h3>
+                <div id="grafo"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts de Firebase y de la App -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-functions-compat.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/graph.js"></script>
+</body>
+</html>

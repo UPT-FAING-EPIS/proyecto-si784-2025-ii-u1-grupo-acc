@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>GraphFlow - Ver Grafo</title>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+    <script src="https://unpkg.com/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+    <script src="https://unpkg.com/dagre@0.8.5/dist/dagre.min.js"></script>
+    <script src="https://unpkg.com/cytoscape-dagre@2.5.0/cytoscape-dagre.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        #cy {
+            width: 100%;
+            height: 80vh; /* Ocupa el 80% de la altura de la ventana */
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        .info-box {
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            border: 1px solid #eee;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="info-box">
+            <h2 id="graph-title">Cargando grafo...</h2>
+        </div>
+        <div id="cy"></div>
+        <button onclick="window.location.href='dashboard.html'" style="margin-top: 20px;">Volver al Dashboard</button>
+    </div>
+
+    <!-- Usaremos un script separado para la lógica de esta página -->
+    <script src="js/auth.js"></script>
+    <script src="js/view.js"></script> 
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphFlow - Dsashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bienvenido a GraphFlow</h1>
+            <p>Gestiona y visualiza tus grafos de conocimiento.</p>
+        </header>
+        
+        <div class="actions">
+            <button onclick="window.location.href='create-graph.html'">Crear Nuevo Grafo</button>
+            <button onclick="alert('Funcionalidad próximamente')">Ver Mis Grafos</button>
+        </div>
+
+        <footer>
+            <a href="#" onclick="firebase.auth().signOut().then(() => window.location.href='index.html')">Cerrar Sesión</a>
+        </footer>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-functions-compat.js"></script>
+    <script src="js/auth.js"></script>
+</body>
+</html>
