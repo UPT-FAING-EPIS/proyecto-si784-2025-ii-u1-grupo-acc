@@ -3,7 +3,7 @@
 # proyecto-formatos-01
 
 **Planteamiento del Problema**
-En el contexto académico de un estudiante de Ingeniería de Sistemas, la fase de planificación de un proyecto de software a menudo es ineficiente. Los estudiantes suelen anotar ideas, requisitos y pasos en diferentes lugares (cuadernos, notas en el celular, documentos de texto) de forma desorganizada. Esta falta de estructura lleva a problemas comunes como:
+En el contexto académico de un estudiante de Ingeniería de Sistemas, la fase de planificación de un proyecto de software a menudo es ineficiente. Los estudiantes suelen anotar ideas, requisitos y pasos en diferentes lugares (cuadernos, notas en el celular, documentos de texto) de forma desorganizada. Esta falta de estructura lleva a varios problemas comunes como:
 
 - Olvidar pasos críticos del desarrollo.
 
